@@ -49,9 +49,9 @@ let badWords = [
 
 global.message = {
     success: "✅ 𝚂𝚞𝚌𝚌𝚎𝚜𝚜! 𝙾𝚙𝚛𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍.",
-    admin: "*👤 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- Dear, this command is only for Admins. You have to be a admin in this group to use this command.",
+    admin: "*👤 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- Dear, this command is only for Admins. You have to be an admin in this group to use this command.",
     botAdmin: "*🤖 B𝙾𝚃 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- I'm not an Admin, so I can't execute this command in this group. Please make me an Admin.",
-    owner: "*👑 O𝚆𝙽𝙴𝚁 N𝙴𝙴𝙴𝙳𝙴𝙳!*\n\n- Bruh, this command is only made for this bot's owner. So you can't use this command.",
+    owner: "*👑 O𝚆𝙽𝙴𝚁 N𝙴𝙴𝙴𝙳𝙴𝙳!*\n\n- Bruh, this command is only made for Rise. So you can't use this command.",
     group: "*👥 G𝚛𝚘𝚞𝚙 N𝚎𝚎𝚍𝚎𝚍!*\n\n- This command can only be executed in a group chat.",
     private: 'This command is only for private chats.',
     wait: '🔄 Processing request...',
@@ -66,7 +66,7 @@ module.exports = {
   botname: process.env.BotName || "Aneesha", 
   author: process.env.Author || "Rise",
   packname: process.env.PackName || "Aneesha",
-  socialLink: process.env.Web || "https://github.com/PikaBotz",
+  socialLink: process.env.Web || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==",
   footer: process.env.Footer || "© ANEESHA",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
@@ -108,7 +108,7 @@ module.exports = {
 global.botname = process.env.BotName || "Aneesha" 
 global.author = process.env.Author || "Rise" 
 global.packname = process.env.PackName || "Aneesha" 
-global.myweb = process.env.Web || "https://github.com/PikaBotz" 
+global.myweb = process.env.Web || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==" 
 global.footer = process.env.Footer || "© ANEESHA" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
