@@ -63,16 +63,16 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  botname: process.env.BotName || "Aneesha", 
+  author: process.env.Author || "Rise",
+  packname: process.env.PackName || "Aneesha",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  footer: process.env.Footer || "© ANEESHA",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
+  ownername: process.env.Owner_Name || "Rise",
   ownernumber: process.env.Owner_Number || "916900904828",
-  instagramId: process.env.Insta || "8.08_only_mine",
+  instagramId: process.env.Insta || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
@@ -105,17 +105,17 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.botname = process.env.BotName || "Aneesha" 
+global.author = process.env.Author || "Rise" 
+global.packname = process.env.PackName || "Aneesha" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "© ANEESHA" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.ownername = process.env.Owner_Name || "Rise" 
+global.ownernumber = process.env.Owner_Number || "15412050506" 
+global.adress = process.env.Continent || "Space" 
+global.timezone = process.env.TimeZone || "Africa/Lagos" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
 global.email = process.env.Email_Id || "example@example.com" 
   
