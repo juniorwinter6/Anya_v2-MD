@@ -71,7 +71,7 @@ module.exports = {
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Rise",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  ownernumber: process.env.Owner_Number || "15412050506",
   instagramId: process.env.Insta || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
@@ -116,8 +116,8 @@ global.ownername = process.env.Owner_Name || "Rise"
 global.ownernumber = process.env.Owner_Number || "15412050506" 
 global.adress = process.env.Continent || "Space" 
 global.timezone = process.env.TimeZone || "Africa/Lagos" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.instagramId = process.env.Insta || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==" 
+global.email = process.env.Email_Id || "juniorwinter16@gmail.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
