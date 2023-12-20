@@ -71,7 +71,7 @@ module.exports = {
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Rise",
-  ownernumber: process.env.Owner_Number || "994404721595",
+  ownernumber: process.env.Owner_Number || "18123074738",
   instagramId: process.env.Insta || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "mongodb+srv://juniorwinter:200416@cluster0.czrj8ug.mongodb.net/?retryWrites=true&w=majority",
@@ -113,7 +113,7 @@ global.footer = process.env.Footer || "© ANEESHA"
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Rise" 
-global.ownernumber = process.env.Owner_Number || "994404721595" 
+global.ownernumber = process.env.Owner_Number || "18123074738" 
 global.adress = process.env.Continent || "Space" 
 global.timezone = process.env.TimeZone || "Africa/Lagos" 
 global.instagramId = process.env.Insta || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==" 
