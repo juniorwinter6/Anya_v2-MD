@@ -71,7 +71,7 @@ module.exports = {
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Rise",
-  ownernumber: process.env.Owner_Number || "18123074738",
+  ownernumber: process.env.Owner_Number || "14143769972",
   instagramId: process.env.Insta || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "mongodb+srv://juniorwinter:200416@cluster0.czrj8ug.mongodb.net/?retryWrites=true&w=majority",
