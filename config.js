@@ -114,7 +114,7 @@ global.prefa = process.env.Prefix || ['-']
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Rise" 
 global.ownernumber = process.env.Owner_Number || "2348058068041" 
-global.adress = process.env.Continent || "Space" 
+global.adress = process.env.Continent || "Lagos, Nigeria" 
 global.timezone = process.env.TimeZone || "Africa/Lagos" 
 global.instagramId = process.env.Insta || "https://instagram.com/juniorwinter6?igshid=OGQ5ZDc2ODk2ZA==" 
 global.email = process.env.Email_Id || "juniorwinter16@gmail.com" 
